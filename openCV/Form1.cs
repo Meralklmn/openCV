@@ -365,7 +365,7 @@ namespace openCV
 
         private void LblOriginal_Click(object sender, EventArgs e)
         {
-            // opsiyonel
+            
         }
     }
 }
